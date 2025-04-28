@@ -1,0 +1,10 @@
+D:\LWZ\LWZ\bin\Debug\LWZ.exe.config
+D:\LWZ\LWZ\bin\Debug\LWZ.exe
+D:\LWZ\LWZ\bin\Debug\LWZ.pdb
+D:\LWZ\LWZ\obj\Debug\LWZ.csproj.AssemblyReference.cache
+D:\LWZ\LWZ\obj\Debug\LWZ.Form1.resources
+D:\LWZ\LWZ\obj\Debug\LWZ.Properties.Resources.resources
+D:\LWZ\LWZ\obj\Debug\LWZ.csproj.GenerateResource.cache
+D:\LWZ\LWZ\obj\Debug\LWZ.csproj.CoreCompileInputs.cache
+D:\LWZ\LWZ\obj\Debug\LWZ.exe
+D:\LWZ\LWZ\obj\Debug\LWZ.pdb
